@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Youqi Li" #"Your Sidebar Name"
+  name             : "Youqi Li (黎有琦)" #"Your Sidebar Name"
   avatar           : "liyouqi.jpg"
   bio              : "Assistant Professor at Beijing Institute of Technology" #"Your biography for the left-hand sidebar"
   location         : "Beijing, China" #"Location"
