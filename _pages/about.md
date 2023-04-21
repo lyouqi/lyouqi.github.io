@@ -18,3 +18,5 @@ I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, feder
 Contact
 ------
 Email: liyouqi [at] bit.edu.cn
+
+I would kindly suggest you read the [Advice for Prospective Research Students](https://uvasrg.github.io/prospective/) by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) before writing the email.
