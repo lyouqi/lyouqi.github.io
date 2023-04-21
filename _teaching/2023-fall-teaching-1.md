@@ -25,8 +25,12 @@ This course covers the organization of computer systems (in terms of storage uni
 
 相关资源
 ======
-https://cs0330-fall2022.github.io/
-https://www.thefengs.com/wuchang/courses/cs201/
-https://www.cs.virginia.edu/~cr4bd/3330/S2018/schedule.html
-https://github.com/Zhenye-Na/CSAPP-Labs
-https://zhuanlan.zhihu.com/p/416946891
+https://cs0330-fall2022.github.io/ [点击访问](https://cs0330-fall2022.github.io/)
+
+https://www.thefengs.com/wuchang/courses/cs201/ [点击访问](https://www.thefengs.com/wuchang/courses/cs201/)
+
+https://www.cs.virginia.edu/~cr4bd/3330/S2018/schedule.html [点击访问](https://www.cs.virginia.edu/~cr4bd/3330/S2018/schedule.html)
+
+https://github.com/Zhenye-Na/CSAPP-Labs [点击访问](https://github.com/Zhenye-Na/CSAPP-Labs)
+
+https://zhuanlan.zhihu.com/p/416946891 [点击访问](https://zhuanlan.zhihu.com/p/416946891)
