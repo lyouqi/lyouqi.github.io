@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
 venue: "Liangxiang BIT, CS"
-date: 2014-01-01
+date: 2023-09-01
 location: "Beijing, China"
 ---
 
