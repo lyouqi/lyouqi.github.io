@@ -22,3 +22,6 @@ main:
 #     url: /markdown/
   - title: "Resources"
     url: /resources/
+    
+  - title: "Students"
+    url: /students/
