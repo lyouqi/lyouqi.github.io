@@ -17,3 +17,4 @@ author_profile: true
 * Yifan Wu, Fall 2023
 * Jianan Zhang, Fall 2023
 * Runlong Fan, Fall 2023
+* Hengyi Yang, Fall 2023 (Now at SYSU as master student)
