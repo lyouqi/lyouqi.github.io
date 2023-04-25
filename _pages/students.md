@@ -8,8 +8,8 @@ author_profile: true
 
 ## Master Student 
 * JiaHao Zhang, Fall 2023
-* Haotian Liang, Fall 2022 (Co-supervised with Prof. Chuan Zhang)
-* Haojun Xuan, Fall 2022 (Co-supervised with Prof. Chuan Zhang)
+<!-- * Haotian Liang, Fall 2022 (Co-supervised with Prof. Chuan Zhang) -->
+<!-- * Haojun Xuan, Fall 2022 (Co-supervised with Prof. Chuan Zhang) -->
 
 
 ## Undergraduate Student 
