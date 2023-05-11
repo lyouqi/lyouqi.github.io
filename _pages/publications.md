@@ -40,9 +40,11 @@ Journal Publications
 
 Conference Publications
 =====
-1. Chuan Zhang, Haotian Liang, **Youqi Li**, Tong Wu, Liehuang Zhu, and Weiting Zhang. "[Stealing Secrecy from Outside: A Novel Gradient Inversion Attack in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10077902)". In IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2022.
-2. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Action-Manipulation Attack and Defense to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/abstract/document/10063384)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022.
-3. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Data Poisoning Attack to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/document/10063707)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022.
+1. Wenjie Qu\*, **Youqi Li\***, Binghui Wang. "[A Certified Radius-Guided Attack Framework to Image Segmentation Models](https://arxiv.org/abs/2304.02693)". In IEEE European Symposium on Security and Privacy (EuroSP), 2023
+2. Binghui Wang, **Youqi Li**, Pan Zhou. "[Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees](https://arxiv.org/abs/2205.03546)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+3. Chuan Zhang, Haotian Liang, **Youqi Li**, Tong Wu, Liehuang Zhu, and Weiting Zhang. "[Stealing Secrecy from Outside: A Novel Gradient Inversion Attack in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10077902)". In IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2022.
+4. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Action-Manipulation Attack and Defense to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/abstract/document/10063384)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022.
+5. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Data Poisoning Attack to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/document/10063707)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022.
 
 
 
