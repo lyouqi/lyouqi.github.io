@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## PhD Student
-* Biao Hou, Fall 2019, Co-supervised with Prof. Song Yang
+* Biao Hou, Fall 2021, Co-supervised with Prof. Song Yang
 * Zhiyuan Zhao, Fall 2020, Co-supervised with Prof. Fan Li
 * Yanan Gao, Fall 2020, Co-supervised with Prof. Song Yang
 * Nan He, Fall 2019, Co-supervised with Prof. Song Yang
@@ -27,3 +27,4 @@ author_profile: true
 * Jianan Zhang, Fall 2023
 * Runlong Fan, Fall 2023
 * Hengyi Yang, Fall 2023 (Now at SYSU as master student)
+* Sijie Meng, Fall 2023
