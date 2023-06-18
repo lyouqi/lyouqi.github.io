@@ -28,3 +28,4 @@ author_profile: true
 * Runlong Fan, Fall 2023
 * Hengyi Yang, Fall 2023 (Now at SYSU as master student)
 * Sijie Meng, Fall 2023
+* Fangnuan Han, 2021 -- 2025
