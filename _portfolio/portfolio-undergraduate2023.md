@@ -1,6 +1,6 @@
 ---
 title: "Portfolio undergraduate 2023"
-excerpt: "Four undergraduate students I mentor, they have graduated successfully. Congrats! <br/><img src='/images/500x300.png'>"
+excerpt: "Four undergraduate students I mentor, have graduated successfully. Congrats! <br/><img src='/images/allstudents2023.jpg'>"
 collection: portfolio
 ---
 
