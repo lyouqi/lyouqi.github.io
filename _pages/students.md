@@ -12,7 +12,8 @@ author_profile: true
 * Nan He, Fall 2019, Co-supervised with Prof. Song Yang
 
 ## Master Student 
-* JiaHao Zhang, Fall 2023
+<!-- * JiaHao Zhang, Fall 2023 -->
+* Yue Ma, Fall 2023
 * Haojun Xuan, Fall 2022, Co-supervised with Prof. Chuan Zhang
 * Haotian Liang, Fall 2022, Co-supervised with Prof. Liehuang Zhu
 * Yusen Wang, Fall 2020, Co-supervised with Prof. Fan Li
