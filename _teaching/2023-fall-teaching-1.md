@@ -34,3 +34,19 @@ https://www.cs.virginia.edu/~cr4bd/3330/S2018/schedule.html [点击访问](https
 https://github.com/Zhenye-Na/CSAPP-Labs [点击访问](https://github.com/Zhenye-Na/CSAPP-Labs)
 
 https://zhuanlan.zhihu.com/p/416946891 [点击访问](https://zhuanlan.zhihu.com/p/416946891)
+
+希冀实验平台 [点击访问](https://course.educg.net/)
+
+乐学 [点击访问](https://lexue.bit.edu.cn/course/view.php?id=13982)
+
+原版英文教材pdf [点击访问](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf)
+
+CMU课程主页 [点击访问](http://csapp.cs.cmu.edu/3e/home.html)
+
+http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html [点击访问](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
+
+并发与并行的区别 [点击访问](https://blog.csdn.net/zz00008888/article/details/131911746) [点击访问](https://baijiahao.baidu.com/s?id=1761797882189935301&wfr=spider&for=pc)
+
+OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
+
+
