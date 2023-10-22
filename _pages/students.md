@@ -30,3 +30,6 @@ author_profile: true
 * Hengyi Yang, Fall 2023 (Now at SYSU as master student)
 * Sijie Meng, Fall 2023
 * Fangnuan Han, 2021 -- 2025
+* Jihao Liu, 2021 -- 2025
+* Fangyu Lin, 2021 -- 2025
+* Shenyi Qi, 2022 -- 2026
