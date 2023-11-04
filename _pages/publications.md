@@ -36,6 +36,7 @@ Journal Publications
 6. **Youqi Li**, Fan Li, Liehuang Zhu, Karshif Sharif, and Huijie Chen. "[A Two‑tiered Incentive Mechanism Design for Federated Crowd Sensing](https://link.springer.com/article/10.1007/s42486-022-00111-8)". CCF Transactions on Pervasive Computing and Interaction (TPCI), 4(4): 339 - 356
 7. Junheng Wang, Fan Li, Song Yang, **Youqi Li**, and Yu Wang. "[A Real-Time Bike Trip Planning Policy With Self-Organizing Bike Redistribution](https://ieeexplore.ieee.org/document/9507389)". IEEE Transactions on Intelligent Transportation Systems (TITS), 23(8):10646-10661, 2021. (CCF B, SCI)
 8. Fan Li, Huijie Chen, Xiaoyu Song, Qian Zhang, **Youqi Li**, and Yu Wang.  "[CondioSense: High-quality Context-aware Service for Audio Sensing System via Active Sonar](https://link.springer.com/article/10.1007/s00779-016-0981-1)". Personal and Ubiquitous Computing, 21(1): 17-29, 2017. (CCF C, SCI)
+9. Haotian Liang, Youqi Li,  Chuan Zhang, Ximeng Liu,  and Liehuang Zhu. "[EGIA: An External Gradient Inversion Attack in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10209197)". IEEE Transactions on Information Forensics and Security (TIFS), 18: 4984 - 4995, 2023. (CCF A, SCI Q1)
 
 
 Conference Publications
