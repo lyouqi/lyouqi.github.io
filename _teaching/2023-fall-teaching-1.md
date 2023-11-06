@@ -15,7 +15,7 @@ This course covers the organization of computer systems (in terms of storage uni
 1. 计算机系统漫游
 2. 信息的表示和处理
 3. 程序的机器级表示
-4. [处理器体系结构](/files/第4章 处理器体系结构-合并V2_20231105221430.pdf)
+4. [处理器体系结构](https://lyouqi.github.io/files/第4章 处理器体系结构-合并V2_20231105221430.pdf)
 5. 程序优化
 6. 存储层次
 7. Cache内存
