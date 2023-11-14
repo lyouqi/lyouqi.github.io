@@ -16,7 +16,7 @@ This course covers the organization of computer systems (in terms of storage uni
 2. 信息的表示和处理
 3. 程序的机器级表示
 4. [处理器体系结构](/files/chapter4.pdf)
-5. 程序优化
+5. [程序优化](/files/chapter5.pdf)
 6. 存储层次
 7. Cache内存
 8. 链接
