@@ -1,4 +1,4 @@
----
+![image](https://github.com/lyouqi/lyouqi.github.io/assets/14831019/d20bebe5-fb49-441a-be1c-660f040069d9)---
 title: "Introduction to Computer Systems"
 collection: teaching
 type: "Undergraduate course"
@@ -48,5 +48,17 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html [点击�
 并发与并行的区别 [点击访问](https://blog.csdn.net/zz00008888/article/details/131911746) [点击访问](https://baijiahao.baidu.com/s?id=1761797882189935301&wfr=spider&for=pc)
 
 OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
+
+问答
+======
+返回指令ret控制逻辑动作表的那一页ppt看不动，具体如下：
+|  状况 Condition   | F  |  D  | E | M | W| 
+|  ----  | ----  | ----  | ----  | ----  | ----  |
+| 处理ret, Processing ret | 暂停, stall | 气泡, bubble | 正常, normal |正常, normal |正常, normal |
+
+[具体解释](/files/chapter_correct_report.pdf)
+
+
+
 
 
