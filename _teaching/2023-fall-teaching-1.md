@@ -1,4 +1,4 @@
-![image](https://github.com/lyouqi/lyouqi.github.io/assets/14831019/d20bebe5-fb49-441a-be1c-660f040069d9)---
+---
 title: "Introduction to Computer Systems"
 collection: teaching
 type: "Undergraduate course"
