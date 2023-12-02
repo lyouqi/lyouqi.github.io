@@ -51,7 +51,7 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html [点击�
 
 OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
 
-CSAPP课本源代码 [点击访问](/files/code.tar)
+CSAPP课本源代码，csapp.h和csapp.c分别在目录include和src [点击访问](/files/code.tar)
 
 问答
 ======
