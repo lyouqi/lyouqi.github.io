@@ -51,6 +51,8 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html [点击�
 
 OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
 
+CSAPP课本源代码 [点击访问](/files/code.tar)
+
 问答
 ======
 返回指令ret控制逻辑动作表的那一页ppt看不动，具体如下：
