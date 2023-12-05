@@ -19,8 +19,8 @@ This course covers the organization of computer systems (in terms of storage uni
 5. [优化程序性能](/files/chapter5.pdf)
 6. [存储器层次结构](/files/chapter6.pdf)
 7. [链接](/files/chapter7.pdf)
-8. [异常控制流](/files/chapter.pdf)
-9. 虚拟内存
+8. [异常控制流](/files/chapter8.pdf)
+9. [虚拟内存](/files/chapter9.pdf)
 10. 系统级I/O
 11. 网络编程
 12. 并发编程
