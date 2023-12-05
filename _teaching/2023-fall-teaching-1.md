@@ -19,7 +19,7 @@ This course covers the organization of computer systems (in terms of storage uni
 5. [优化程序性能](/files/chapter5.pdf)
 6. [存储器层次结构](/files/chapter6.pdf)
 7. [链接](/files/chapter7.pdf)
-8. 异常控制流
+8. [异常控制流](/files/chapter.pdf)
 9. 虚拟内存
 10. 系统级I/O
 11. 网络编程
@@ -53,10 +53,12 @@ OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
 
 CSAPP课本源代码，csapp.h和csapp.c分别在目录include和src [点击访问](/files/code.tar)
 
+[Outline for exam last year](/files/syllabus_last_year.pdf)
+
 问答
 ======
 返回指令ret控制逻辑动作表的那一页ppt看不动，具体如下：
-|  状况 Condition   | F  |  D  | E | M | W| 
+|  状况 Condition   | F  |  D  | E | M | W | 
 |  ----  | ----  | ----  | ----  | ----  | ----  |
 | 处理ret, Processing ret | 暂停, stall | 气泡, bubble | 正常, normal |正常, normal |正常, normal |
 
