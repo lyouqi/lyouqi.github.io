@@ -21,8 +21,8 @@ This course covers the organization of computer systems (in terms of storage uni
 7. [链接](/files/chapter7.pdf)
 8. [异常控制流](/files/chapter8.pdf)
 9. [虚拟内存](/files/chapter9.pdf)
-10. 系统级I/O
-11. 网络编程
+10. [系统级I/O](/files/chapter10.pdf)
+11. [网络编程](/files/chapter11.pdf)
 12. 并发编程
 
 相关资源
