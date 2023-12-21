@@ -23,7 +23,7 @@ This course covers the organization of computer systems (in terms of storage uni
 9. [虚拟内存](/files/chapter9.pdf)
 10. [系统级I/O](/files/chapter10.pdf)
 11. [网络编程](/files/chapter11.pdf)
-12. 并发编程
+12. [并发编程](/files/chapter12.pdf)
 
 相关资源
 ======
