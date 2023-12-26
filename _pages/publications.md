@@ -41,13 +41,14 @@ Journal Publications
 
 Conference Publications
 =====
-1. Rixin Xu, Qing Li, Wenqiang Cao, Jingbo Yan, **Youqi Li**. "An Adaptive Differential Private Federated Learning in Secure IoT". In IEEE International Conference on Advanced Cloud and Big Data (CBD), 2023
-2. Wenqiang Cao, Qing Li, Siying Zhang, Rixin Xu, **Youqi Li\#**. "STEP: generating Semantic Text Embedding with Prompt". In IEEE International Conference on Advanced Cloud and Big Data (CBD), 2023
-3. Wenjie Qu\*, **Youqi Li\***, Binghui Wang. "[A Certified Radius-Guided Attack Framework to Image Segmentation Models](https://arxiv.org/abs/2304.02693)". In IEEE European Symposium on Security and Privacy (EuroSP), 2023
-4. Binghui Wang, **Youqi Li**, Pan Zhou. "[Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees](https://arxiv.org/abs/2205.03546)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
-5. Chuan Zhang, Haotian Liang, **Youqi Li**, Tong Wu, Liehuang Zhu, and Weiting Zhang. "[Stealing Secrecy from Outside: A Novel Gradient Inversion Attack in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10077902)". In IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2022
-6. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Action-Manipulation Attack and Defense to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/abstract/document/10063384)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022
-7. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Data Poisoning Attack to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/document/10063707)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022
+1. Jin Liu, Xiaokang Pan, Junwen Duan, Hongdong Li, **Youqi Li**, and Zhe Qu#. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization](https://arxiv.org/pdf/2308.09604.pdf)". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
+2. Rixin Xu, Qing Li, Wenqiang Cao, Jingbo Yan, **Youqi Li**. "An Adaptive Differential Private Federated Learning in Secure IoT". In IEEE International Conference on Advanced Cloud and Big Data (CBD), 2023
+3. Wenqiang Cao, Qing Li, Siying Zhang, Rixin Xu, **Youqi Li\#**. "STEP: generating Semantic Text Embedding with Prompt". In IEEE International Conference on Advanced Cloud and Big Data (CBD), 2023
+4. Wenjie Qu\*, **Youqi Li\***, Binghui Wang. "[A Certified Radius-Guided Attack Framework to Image Segmentation Models](https://arxiv.org/abs/2304.02693)". In IEEE European Symposium on Security and Privacy (EuroSP), 2023
+5. Binghui Wang, **Youqi Li**, Pan Zhou. "[Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees](https://arxiv.org/abs/2205.03546)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+6. Chuan Zhang, Haotian Liang, **Youqi Li**, Tong Wu, Liehuang Zhu, and Weiting Zhang. "[Stealing Secrecy from Outside: A Novel Gradient Inversion Attack in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10077902)". In IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2022
+7. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Action-Manipulation Attack and Defense to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/abstract/document/10063384)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022
+8. Zhi Luo, **Youqi Li**, Lixing Chen, Zichuan Xu, Pan Zhou. "[Data Poisoning Attack to $\mathcal{X}$-Armed Bandits](https://ieeexplore.ieee.org/document/10063707)". In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022
 
 
 
