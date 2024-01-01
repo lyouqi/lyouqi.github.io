@@ -1,7 +1,7 @@
 ---
 title: '学生论文读后感分享'
-date: 2023-10-22
-permalink: /posts/2023/10/blog-post-1/
+date: 2024-1-1
+permalink: /posts/2024/1/blog-post-1/
 tags:
   - 论文分享
   - Sigcomm
