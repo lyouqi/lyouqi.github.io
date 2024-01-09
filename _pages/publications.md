@@ -23,8 +23,9 @@ author_profile: true
 
 Book Chapter
 =====
-1. Chuan Zhang, Tong Wu, **Youqi Li**, and Liehuang Zhu. "[Privacy-Preserving in Mobile Crowdsensing](https://link.springer.com/book/10.1007/978-981-19-8315-3)". Springer, 2023.
-2. **Youqi Li**, Fan Li, Song Yang, and Chuan Zhang. "Incentive Mechanism for Mobile Crowdsensing: A Game-theoretic Approach". Springer, (In Submission).
+1. Chuan Zhang, Tong Wu, **Youqi Li**, and Liehuang Zhu. "[Privacy-Preserving in Mobile Crowdsensing](https://link.springer.com/book/10.1007/978-981-19-8315-3)". Springer, 2023, ISBN: 978-981-19-8317-7.
+2. **Youqi Li**, Fan Li, Song Yang, and Chuan Zhang. "[Incentive Mechanism for Mobile Crowdsensing: A Game-theoretic Approach](https://link.springer.com/book/10.1007/978-981-99-6921-0)". Springer, 2024, ISBN: 978-981-99-6920-3.
+<!-- 3. **Youqi Li**, Fan Li, Song Yang, and Chuan Zhang. "Incentive Mechanism for Mobile Crowdsensing: A Game-theoretic Approach". Springer, (In Submission). -->
 
 Journal Publications
 =====
