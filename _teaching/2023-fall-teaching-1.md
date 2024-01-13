@@ -57,6 +57,8 @@ CSAPP课本源代码，csapp.h和csapp.c分别在目录include和src [点击访�
 
 [Outline for exam this year, V1](/files/review_outline.pdf)
 
+课后习题答案，家庭作业 [点击访问](https://dreamanddead.github.io/CSAPP-3e-Solutions/)
+
 问答
 ======
 返回指令ret控制逻辑动作表的那一页ppt看不动，具体如下：
