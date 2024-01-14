@@ -13,7 +13,9 @@ I am an assistant professor (master supervisor) at the [School of Computer Scien
 
 Research Interests
 ------
-I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, federated learning, incentive mechanism, bandit and AI security. I focus on theoretical research using tools including optimization and machine/deep learning. I'm looking for highly motivated master students, undergraduate students and research interns with strong technical backgrounds to work together in these areas. If you are interested, please send an email with your CV and transcripts attached.
+I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, federated learning, incentive mechanism, bandit and AI security. I focus on theoretical research using tools including optimization and machine/deep learning. 
+
+I'm always looking for highly motivated master students, undergraduate students and research interns with strong technical backgrounds to work together in these areas. If you are interested, please send an email with your CV and transcripts attached.
 
 Contact
 ------
