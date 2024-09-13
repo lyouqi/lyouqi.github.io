@@ -25,3 +25,18 @@ This course covers the organization of computer systems (in terms of storage uni
 11. 网络编程
 12. 并发编程
 
+相关资源
+======
+希冀实验平台 [点击访问](https://course.educg.net/)
+
+乐学 [点击访问](https://lexue.bit.edu.cn/course/view.php?id=13982)
+
+原版英文教材pdf [点击访问](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf)
+
+中文翻译版教材pdf 
+
+CMU课程主页 [点击访问](http://csapp.cs.cmu.edu/3e/home.html)
+
+OpenSource code [点击访问](https://github.com/gaocegege/ICS-Labs)
+
+CSAPP课本源代码，csapp.h和csapp.c分别在目录include和src [点击访问](/files/code.tar)
