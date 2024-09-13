@@ -1,1 +1,17 @@
+---
+title: "Introduction to Computer Systems"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2024-fall-teaching-1
+venue: "Liangxiang BIT, CS"
+date: 2024-09-09
+location: "Beijing, China"
+---
 
+This course covers the organization of computer systems (in terms of storage units, caches, processors, and I/O controllers) and teaches you assembly and C language programming.
+
+内容
+======
+1. 计算机系统漫游
+2. 信息的表示和处理
+3. 程序的机器级表示
