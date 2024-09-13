@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Computer Systems"
+title: "Introduction to Computer Systems [2024]"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
