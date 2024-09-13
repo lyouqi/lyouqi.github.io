@@ -13,6 +13,8 @@ author_profile: true
 
 ## Master Student 
 <!-- * JiaHao Zhang, Fall 2023 -->
+* Shuangji Liu, Fall 2024
+* Yanchen Meng, Fall 2024
 * Yue Ma, Fall 2023
 * Haojun Xuan, Fall 2022, Co-supervised with Prof. Chuan Zhang
 * Haotian Liang, Fall 2022, Co-supervised with Prof. Liehuang Zhu
