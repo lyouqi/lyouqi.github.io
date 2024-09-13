@@ -12,7 +12,7 @@ This course covers the organization of computer systems (in terms of storage uni
 
 内容
 ======
-1. 计算机系统漫游
+1. [计算机系统漫游](/files/2024-Chapter1.pdf)
 2. 信息的表示和处理
 3. 程序的机器级表示
 4. 处理器体系结构
