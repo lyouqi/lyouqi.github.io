@@ -27,11 +27,11 @@ author_profile: true
 ## Undergraduate Student 
 * Wenzong Zhang, Fall 2023 (Now at BIT as a master student)
 * Yifan Wu, Fall 2023 (Accepted to the National University of Singapore as a master student) 
-* Jianan Zhang, Fall 2023
+* Jianan Zhang, Fall 2023 (Now at HUT as a master student)
 * Runlong Fan, Fall 2023
 * Hengyi Yang, Fall 2023 (Now at SYSU as a master student)
 * Sijie Meng, Fall 2023
-* Fangnuan Han, 2021 -- 2025
+<!-- * Fangnuan Han, 2021 -- 2025 -->
 * Jihao Liu, 2021 -- 2025
-* Fangyu Lin, 2021 -- 2025
+<!--* Fangyu Lin, 2021 -- 2025 -->
 * Shenyi Qi, 2022 -- 2026
