@@ -34,4 +34,4 @@ author_profile: true
 <!-- * Fangnuan Han, 2021 -- 2025 -->
 * Jihao Liu, 2021 -- 2025
 <!--* Fangyu Lin, 2021 -- 2025 -->
-* Shenyi Qi, 2022 -- 2026
+* [Shenyi Qi](https://seer666.github.io/), 2022 -- 2026
