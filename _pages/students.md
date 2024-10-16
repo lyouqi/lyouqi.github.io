@@ -15,7 +15,7 @@ author_profile: true
 <!-- * JiaHao Zhang, Fall 2023 -->
 * [Shuangji Liu](https://whatasmallship.github.io/), Fall 2024
 * [Yanchen Meng](https://myc8866.github.io/), Fall 2024
-* Yue Ma, Fall 2023
+* Yue Ma, Fall 2023, Co-supervised with Prof. Song Yang
 * Haojun Xuan, Fall 2022, Co-supervised with Prof. Chuan Zhang
 * Haotian Liang, Fall 2022, Co-supervised with Prof. Liehuang Zhu
 * Yusen Wang, Fall 2020, Co-supervised with Prof. Fan Li
@@ -32,6 +32,6 @@ author_profile: true
 * Hengyi Yang, Fall 2023 (Now at SYSU as a master student)
 * Sijie Meng, Fall 2023
 <!-- * Fangnuan Han, 2021 -- 2025 -->
-* Jihao Liu, 2021 -- 2025
+<!-- * Jihao Liu, 2021 -- 2025 -->
 <!--* Fangyu Lin, 2021 -- 2025 -->
 * [Shenyi Qi](https://seer666.github.io/), 2022 -- 2026
