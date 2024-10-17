@@ -19,7 +19,7 @@ author_profile: true
 * Haojun Xuan, Fall 2022, Co-supervised with Prof. Chuan Zhang
 * Haotian Liang, Fall 2022, Co-supervised with Prof. Liehuang Zhu
 * Yusen Wang, Fall 2020, Co-supervised with Prof. Fan Li
-* Qiuyang Zeng, Fall 2020, Co-supervised with Prof. Fan Li
+* Qiuyang Zeng, Fall 2020, Co-supervised with Prof. Fan Li (Now at Huawei as an engineer)
 <!-- * Haotian Liang, Fall 2022 (Co-supervised with Prof. Chuan Zhang) -->
 <!-- * Haojun Xuan, Fall 2022 (Co-supervised with Prof. Chuan Zhang) -->
 
