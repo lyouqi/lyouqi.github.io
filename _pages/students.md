@@ -30,7 +30,7 @@ author_profile: true
 * Jianan Zhang, Fall 2023 (Now at HUT as a master student)
 * Runlong Fan, Fall 2023
 * Hengyi Yang, Fall 2023 (Now at SYSU as a master student)
-* Sijie Meng, Fall 2023
+* Sijie Meng, Fall 2023 (Now at CETC as a master student)
 <!-- * Fangnuan Han, 2021 -- 2025 -->
 <!-- * Jihao Liu, 2021 -- 2025 -->
 <!--* Fangyu Lin, 2021 -- 2025 -->
