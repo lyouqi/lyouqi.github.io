@@ -29,7 +29,7 @@ Book Chapter
 
 Journal Publications
 =====
-1. **Youqi Li**, Shuangji Liu, Yanchen Meng, Shenyi Qi, Zhe Qu, Fan Li, and Yu Wang. "[Towards Collaborative Intelligence for Meta-Computing-Driven IIoT Based on Vertical Federated Learning With Fast Convergence]([https://ieeexplore.ieee.org/document/10460191](https://ieeexplore.ieee.org/document/10909094))". IEEE Internet of Things Journal, 2025, Early Access. (SCI)
+1. **Youqi Li**, Shuangji Liu, Yanchen Meng, Shenyi Qi, Zhe Qu, Fan Li, and Yu Wang. "[Towards Collaborative Intelligence for Meta-Computing-Driven IIoT Based on Vertical Federated Learning With Fast Convergence](https://ieeexplore.ieee.org/document/10909094))". IEEE Internet of Things Journal, 2025, Early Access. (SCI)
 2. **Youqi Li**, Fan Li, Song Yang, Chuan Zhang, Liehuang Zhu, and Yu Wang. "[A Cooperative Analysis to Incentivize Communication-Efficient Federated Learning](https://ieeexplore.ieee.org/document/10460191)". IEEE Transactions on Mobile Computing (TMC), 2024, Early Access. (CCF A)
 3.  **Youqi Li**, Fan Li, Lixing Chen, Liehuang Zhu, Pan Zhou, and Yu Wang. "[Power of Redundancy: Surplus Client Scheduling for Federated Learning against User Uncertainties](https://ieeexplore.ieee.org/document/9782544)". IEEE Transactions on Mobile Computing (TMC), 22(9): 5449 - 5462, 2023. (CCF A)
 4. **Youqi Li**, Fan Li, Song Yang, Pan Zhou, Liehuang Zhu, and Yu Wang. "[Three-stage Stackelberg long-term incentive mechanism and monetization for crowdsensing: An Online Learning Approach](https://ieeexplore.ieee.org/document/9349147)". IEEE Transactions on Network Science and Engineering (TNSE), 8(2): 1385 - 1398, 2021. (SCI)
