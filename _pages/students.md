@@ -25,7 +25,7 @@ author_profile: true
 
 
 ## Undergraduate Student 
-* Wenzong Zhang, Fall 2023 (Now at BIT as a master student)
+* [Wenzong Zhang](https://zhangwenzong123.github.io/), Fall 2023 (Now at BIT as a master student)
 * Yifan Wu, Fall 2023 (Accepted to the National University of Singapore as a master student) 
 * [Jianan Zhang](https://jiananzhang088.github.io/), Fall 2023 (Now at HUT as a master student)
 * Runlong Fan, Fall 2023
