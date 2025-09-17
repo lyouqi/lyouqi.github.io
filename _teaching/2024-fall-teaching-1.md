@@ -33,8 +33,8 @@ This course covers the organization of computer systems (in terms of storage uni
 
 原版英文教材pdf [点击访问](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf)
 
-中文翻译版教材pdf [百度云盘](https://pan.baidu.com/s/1F66_SIbAJGWTtf7_eV3OkQ)
-提取码: ju62
+中文翻译版教材pdf [百度云盘](https://pan.baidu.com/s/19MomSIhIfoV_BSg6LdKI6A)
+提取码: m31z
 
 CMU课程主页 [点击访问](http://csapp.cs.cmu.edu/3e/home.html)
 
