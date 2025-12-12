@@ -49,7 +49,7 @@ Journal Publications
 
 Conference Publications
 =====
-1. Xiaofei Yue, Song Yang, Fan Li, Youqi Li, Yu Wang. "Rocket: Warming Serverless Inference via Hierarchical ML Artifact Pre-loading and Sharing". In IEEE International Conference on Computer Communications (INFOCOM), 2026. (CCF A)
+1. Xiaofei Yue, Song Yang, Fan Li, **Youqi Li**, Yu Wang. "Rocket: Warming Serverless Inference via Hierarchical ML Artifact Pre-loading and Sharing". In IEEE International Conference on Computer Communications (INFOCOM), 2026. (CCF A)
 2. Xiaokang Pan, Jin Liu, Hulin Kuang, **Youqi Li**, Lixing Chen, and Zhe Qu. "Stability and Generalization for Stochastic (Compositional) Optimizations". In International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CCF A)
 3. Wenzong Zhang, Jianan Zhang, Yifan Wu, Chengwei Lv, Huijie Chen, **Youqi Li\#**. "Distributed Crowdtesting Empowered by LLMs for Industrial Control Software: An Incentive Mechanism". In the 11th International Conference on Big Data Computing and Communications (BigCom), 2025.
 4. Jin Liu, Xiaokang Pan, Junwen Duan, Hongdong Li, **Youqi Li**, and Zhe Qu#. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization](https://arxiv.org/pdf/2308.09604.pdf)". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
