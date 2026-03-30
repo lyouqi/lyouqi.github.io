@@ -29,7 +29,7 @@ Book Chapter
 
 Journal Publications
 =====
-1. **Youqi Li**, Fan Li, Pan Zhou and Yu Wang. "[Communication-Efficient Decentralized Contextual X-Armed Bandit Learning in Multi-agent Stochastic Networks]()". IEEE/ACM Transactions on Networking, 2026, Early Access. (CCF A)
+1. **Youqi Li**, Fan Li, Pan Zhou and Yu Wang. "[Communication-Efficient Decentralized Contextual X-Armed Bandit Learning in Multi-agent Stochastic Networks](https://ieeexplore.ieee.org/document/11419192)". IEEE/ACM Transactions on Networking, 2026, Early Access. (CCF A)
 2. **Youqi Li**, Fan Li, Song Yang and Yu Wang. "[BGEFL : Enabling Communication-Efficient Federated Learning via Bandit Gradient Estimation in Resource-Constrained Networks](https://ieeexplore.ieee.org/document/10988881)". IEEE/ACM Transactions on Networking, 2025, Early Access. (CCF A)
 3. **Youqi Li**, Shuangji Liu, Yanchen Meng, Shenyi Qi, Zhe Qu, Fan Li, and Yu Wang. "[Towards Collaborative Intelligence for Meta-Computing-Driven IIoT Based on Vertical Federated Learning With Fast Convergence](https://ieeexplore.ieee.org/document/10909094)". IEEE Internet of Things Journal, 12(10):13806-13816, 2025. (SCI)
 4. **Youqi Li**, Fan Li, Song Yang, Chuan Zhang, Liehuang Zhu, and Yu Wang. "[A Cooperative Analysis to Incentivize Communication-Efficient Federated Learning](https://ieeexplore.ieee.org/document/10460191)". IEEE Transactions on Mobile Computing (TMC), 23(10):10175-10190, 2024. (CCF A)
