@@ -47,7 +47,7 @@ Journal Publications
 16. Biao Hou, Song Yang, **Youqi Li**, Fan Li, Liehuang Zhu, Xu Chen, Ramin Yahyapour. "[Cetus: Online Context-aware Cross-layer Coordination for Efficient Live Volumetric Video Streaming](https://ieeexplore.ieee.org/document/11278112)". IEEE/ACM Transactions on Networking, 34: 2076-2091, 2026. (CCF A)
 17. Yanan Gao, Song Yang, Fan Li, **Youqi Li**, Liehuang Zhu, Stojan Trajanovski, Xiaoming Fu. "[Efficient and Flexible Multi-Qubit Entanglement Transmission in Quantum Networks](https://ieeexplore.ieee.org/document/11251476/)". IEEE/ACM Transactions on Networking, 34: 1761-1776, 2026. (CCF A)
 18. Xun Han, Jun Xiao, Yifan Liu, Ruilin Zhang, Biaokai Zhu, Hongyi Hao, **Youqi Li**, Fan Li, Qian Zhang. "[EEGAuth: A Secure and Lightweight EEG-Based System Integrating Authentication and Key Generation](https://ieeexplore.ieee.org/document/11216104/)". IEEE Internet of Things Journal, 12(24): 55330-55343, 2025. (SCI, CCF C)
-19. Zhongqi Miao, Lixing Chen, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, Youqi Li. "[GT<sup>2</sup>D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection](https://ieeexplore.ieee.org/document/11599752)". IEEE Transactions on Cognitive Communications and Networking, 12: 11358-11369, 2026. (SCI) 
+19. Zhongqi Miao, Lixing Chen, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, **Youqi Li**. "[GT<sup>2</sup>D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection](https://ieeexplore.ieee.org/document/11599752)". IEEE Transactions on Cognitive Communications and Networking, 12: 11358-11369, 2026. (SCI) 
 
 
 Conference Publications
